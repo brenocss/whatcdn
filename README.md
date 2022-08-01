@@ -9,6 +9,11 @@ Heavily inspired by:
 - https://github.com/projectdiscovery/cdncheck 
 - https://github.com/99designs/clouddetect
 
+## Install
+```bash
+go install github.com/brenocss/whatcdn@latest
+```
+
 ## Usage
 ```bash
 echo cloudflare.com | ./whatcdn -t 20 -json
