@@ -18,3 +18,5 @@ go install github.com/brenocss/whatcdn@latest
 ```bash
 echo cloudflare.com | ./whatcdn -t 20 -json
 ```
+## Contributors
+Special thanks to [@clapbr](https://github.com/clapbr) and [@caueobici](https://github.com/caueobici)
